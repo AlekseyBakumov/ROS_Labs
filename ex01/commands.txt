@@ -8,7 +8,7 @@
 Название: grep
 Описание: Интерактивный монитор процессов для Unix-систем
 Синтаксис: grep [опции] шаблон файл
-Пример: grep "terminal command" ./ex00/READDME.md
+Пример: grep "terminal command" ./ex00/README.md
 Примечание: Часто используется в сочетании с другими командами. Прим.: ls /bin | grep -w zip
 === 3
 Название: chmod
